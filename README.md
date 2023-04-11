@@ -20,8 +20,8 @@
 
 ## Confusion Matrix:
 
-[[ 9  3]
- [ 0 10]]
+    [[ 9  3]
+     [ 0 10]]
 
 ## Classification Report:
 
